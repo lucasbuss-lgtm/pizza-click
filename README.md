@@ -10,7 +10,7 @@ O jogo está publicado e pronto para ser jogado diretamente no seu navegador atr
 
 ---
 
-## 🎨 Funcionalidades e Visual
+##  Funcionalidades e Visual
 
 **Design Responsivo (Fluid Design):** Interface adaptável que funciona perfeitamente tanto em computadores (Desktop) quanto em dispositivos móveis (Mobile).
 **Interface Temática Customizada (*Skinned UI*):** O painel central do jogo simula uma pizza quadrada realista com bordas de massa trançada e um fundo preenchido com queijo derretido e pepperoni.
@@ -19,7 +19,7 @@ O jogo está publicado e pronto para ser jogado diretamente no seu navegador atr
 
 ---
 
-## 🛠️ Arquitetura Técnica
+##  Arquitetura Técnica
 
 O projeto foi construído sob o padrão clássico de desenvolvimento web dividindo a aplicação em três camadas independentes, garantindo alta performance e fácil manutenção do código:
 
