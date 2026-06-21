@@ -1,5 +1,9 @@
 Pizza Clicker
 
+Autores
+Jefferson Koerich
+Lucas Rodrigues buss
+
 Um jogo incremental (*clicker*) divertido, responsivo e totalmente temático, desenvolvido com uma identidade visual tridimensional. 
 Gerencie sua própria produção de pizzas e compre melhorias para automatizar e inflacionar o seu império gastronômico!
 
