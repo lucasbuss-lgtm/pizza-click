@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza Clicker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Pizza Click</h1>
+
+        <div class="painel">
+            <p>Pizzas Produzidas: <span id="pontos">0</span></p>
+            <p>Pizzas por Clique: <span id="valorClique">1</span></p>
+            <p>Melhorias Compradas: <span id="upgrades">0</span></p>
+            <p>Custo da Próxima Melhoria: <span id="custo">10</span></p>
+        </div>
+
+        <button id="btnClique">
+            Fazer Pizza
+        </button>
+
+        <button id="btnUpgrade">
+            Comprar Melhoria
+        </button>
+
+        <h2 id="mensagem"></h2>
+
+    </div>
+
+    <div class="barra">
+        <div id="progresso"></div>
+    </div>
+
+    <img src="https://cdn-icons-png.flaticon.com/512/1404/1404945.png" id="pizza">
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
